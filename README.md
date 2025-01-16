@@ -4,7 +4,7 @@ Hi, I'm Andy. Experienced data analyst focusing primarily in the banking sector.
 - I also dabble with things like building data pipelines and setting up DBs.
 
 ## Work
-I am currently working at a major financial institution in Europe, specficially in credit risk monitoring.
+I am currently working at a major financial institution in Europe, specifically in credit risk monitoring.
 
 Before that, I was a research assistant, supporting a project on implementing AI chatbots in university settings.
 
